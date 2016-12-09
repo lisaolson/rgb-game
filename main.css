@@ -28,6 +28,7 @@ h1 {
   padding: 20px 0;
   margin: 0;
   font-weight: 100;
+  background: blue;
   text-transform: uppercase;
   animation-name: color;
   animation-duration: 20s;
@@ -45,7 +46,7 @@ h1 {
   70% { background-color: #56C640; }
   80% { background-color: #40C68B; }
   90% { background-color: #40C6C2; }
-  100% { background-color: #77505F; }
+  100% { background-color: #40C6BC; }
 }
 
 #colorDisplay {
