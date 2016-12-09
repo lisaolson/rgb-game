@@ -71,3 +71,18 @@ button{
     color: white;
     background-color: steelblue;
   }
+
+#message {
+  color: white;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+#messageDiv {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#space {
+  padding-left: 12%;
+}
