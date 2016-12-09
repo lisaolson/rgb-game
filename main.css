@@ -22,31 +22,14 @@ body {
 }
 
 h1 {
-  color: #EEF8F9;
+  color: #E5EEEE;
   text-align: center;
   line-height: 1.1;
   padding: 20px 0;
+  background: #C64065;
   margin: 0;
   font-weight: 100;
-  background: blue;
   text-transform: uppercase;
-  animation-name: color;
-  animation-duration: 20s;
-  animation-iteration-count: infinite;
-}
-
-@keyframes color {
-  0% { background-color: #40C6BC; }
-  10% { background-color: #C64091; }
-  20% { background-color: #6A40C6; }
-  30% { background-color: #B740C6; }
-  40% { background-color: #C6407B; }
-  50% { background-color: #C64048; }
-  60% { background-color: #ABC640; }
-  70% { background-color: #56C640; }
-  80% { background-color: #40C68B; }
-  90% { background-color: #40C6C2; }
-  100% { background-color: #40C6BC; }
 }
 
 #colorDisplay {
